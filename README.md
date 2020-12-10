@@ -1,2 +1,2 @@
 goit-markup-hw-01
-a href="https://alexgural1004.github.io/goit-markup-hw-01/"> живая страница</a>
+<a href="https://alexgural1004.github.io/goit-markup-hw-01/"> живая страница</a>
